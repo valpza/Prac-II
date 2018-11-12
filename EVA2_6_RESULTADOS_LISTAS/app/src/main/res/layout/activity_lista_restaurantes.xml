@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.iowner.eva2_6_resultados_listas.ListaRestaurantes">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lista de Restaurantes"
+        android:textColor="@android:color/background_dark" />
+
+    <ListView
+        android:id="@+id/listaRes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
