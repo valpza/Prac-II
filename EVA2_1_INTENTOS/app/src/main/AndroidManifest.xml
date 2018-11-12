@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.luisflores.eva2_1_intentos">
-
-    <uses-permission android:name="android.permission.CALL_PHONE" />
-
+    package="com.example.iowner.eva2_1_intentos">
+    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
