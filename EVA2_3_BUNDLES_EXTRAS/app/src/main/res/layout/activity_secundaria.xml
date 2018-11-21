@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.iowner.eva2_3_bundles_extras.Secundaria">
+    tools:context="com.example.vale.eva2_3_bundles_extras.Secundaria">
 
     <TextView
         android:id="@+id/textView"

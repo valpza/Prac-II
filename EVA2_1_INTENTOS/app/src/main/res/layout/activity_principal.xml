@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context="com.example.iowner.eva2_1_intentos.Principal">
+    tools:context="com.example.vale.eva2_1_intentos.Principal">
 
     <TextView
         android:id="@+id/textView"
