@@ -1,4 +1,4 @@
-package com.example.iowner.eva2_8_listas_personalizadas;
+package com.example.vale.eva2_8_listas_personalizadas;
 
 import android.app.Activity;
 import android.content.Context;

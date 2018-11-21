@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context="com.example.iowner.eva2_8_listas_personalizadas.Principal">
+    tools:context="com.example.vale.eva2_8_listas_personalizadas.Principal">
 
     <ListView
         android:id="@+id/list"

@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.iowner.eva2_8_listas_personalizadas.ClimaDetalle">
+    tools:context="com.example.vale.eva2_8_listas_personalizadas.ClimaDetalle">
 
     <ImageView
         android:id="@+id/imgDe"
